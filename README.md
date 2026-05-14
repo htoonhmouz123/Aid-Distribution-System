@@ -16,7 +16,9 @@ A JavaFX desktop application for managing humanitarian aid distribution. Built u
 - UI Framework: JavaFX  
 - Data Persistence: Text files (custom format) + Java Object Serialization (.bin)  
 - Design Principles: OOP (Inheritance, Abstraction, Interfaces, Custom Exceptions)  
-- IDE: IntelliJ IDEA / Eclipse + Scene Builder  
+- IDE: IntelliJ IDEA  
+- UI Framework: JavaFX  
+- UI Design: Java-based implementation 
 
 ## Architecture
 

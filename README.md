@@ -28,3 +28,5 @@ The system follows a layered structure:
 - Controller/Manager: `AidManager` handles all business logic  
 - UI layer: Each screen is a separate controller class  
 - Main window connects everything via a menu-based navigation system  
+
+## Screenshots

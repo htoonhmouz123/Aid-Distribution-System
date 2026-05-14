@@ -30,3 +30,9 @@ The system follows a layered structure:
 - Main window connects everything via a menu-based navigation system  
 
 ## Screenshots
+[HomeScreen](homeScreen.png)
+[Beneficiary](Beneficiary.png)
+[Report](report.png)
+[file](file.png)
+[aiditem](aiditem.png)
+[aidDistribution](aidDistribution.png)
